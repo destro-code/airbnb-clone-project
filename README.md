@@ -39,3 +39,29 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ## 📂 Project Structure (Planned)
 
+## UI/UX Design Planning
+**Color Styles**
+Primary Color : #34967C
+Secondary Color : #161117
+Seondary Color :#FFA800
+
+**Typography**
+font-family: Quicksand;
+font-weight: 700;
+font-size: 22px;
+
+font-family: Quicksand;
+font-weight: 500;
+font-size: 16px;
+
+font-family: Quicksand;
+font-weight: 600;
+font-size: 26px;
+
+**Importance of Identifying Design Properties in a Mockup**
+Identifying the design properties such as color styles and typography in a mockup is critical because:
+Consistency: Ensures uniformity across the product’s interface, creating a seamless user experience.
+Brand Identity: Colors and fonts convey the brand’s personality and values clearly and professionally.
+Communication: Clear typography and color choices enhance readability and usability, guiding user attention effectively.
+Efficiency: Developers and designers can work faster with well-documented design specs, reducing guesswork and revisions.
+Accessibility: Proper design choices help in making the product accessible to diverse users, including those with visual impairments.
