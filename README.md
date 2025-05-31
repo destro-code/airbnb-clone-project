@@ -99,3 +99,21 @@ Contribution: Guide the product direction to maximize value and ensure the team 
 Scrum Master
 Responsibilities: Facilitate Agile processes, remove blockers, and organize team meetings.
 Contribution: Keep the team productive and focused, ensuring Agile principles drive continuous improvement.
+
+
+## UI Component Patterns
+
+For the Airbnb Clone project, the following UI components are planned to be developed to ensure a modular, reusable, and consistent user interface:
+
+### Navbar
+- Contains the Logo, Search bar, User navigation options, and a Responsive menu to adapt to different screen sizes.
+
+### Property Card
+- Displays a Property image, Basic details such as price, location, and rating, a Favorite button for user interaction, and a Responsive layout to work well on various devices.
+
+### Footer
+- Includes Site links for navigation, Company information, Social media links, and Copyright information.
+
+Each component will be designed with reusability and consistency as core principles to maintain a uniform look and feel throughout the application.
+
+
