@@ -65,3 +65,37 @@ Brand Identity: Colors and fonts convey the brand’s personality and values cle
 Communication: Clear typography and color choices enhance readability and usability, guiding user attention effectively.
 Efficiency: Developers and designers can work faster with well-documented design specs, reducing guesswork and revisions.
 Accessibility: Proper design choices help in making the product accessible to diverse users, including those with visual impairments.
+
+
+## Project Roles and Responsibilities.
+Project Manager
+Responsibilities: Oversees the project timeline, coordinates between teams, and manages deliverables.
+Contribution: Keeps the project on track and aligned with goals, ensuring deadlines are met and resources are used efficiently.
+
+Frontend Developers
+Responsibilities: Implement UI components, ensure responsive and user-friendly design.
+Contribution: Deliver the look and feel of the product, creating an intuitive interface that users interact with directly.
+
+Backend Developers
+Responsibilities: Build APIs, manage databases, implement business logic and server-side functionality.
+Contribution: Provide the backbone of the application, handling data and core processes reliably and securely.
+
+Designers
+Responsibilities: Create mockups, maintain design systems, and ensure overall user experience quality.
+Contribution: Define the visual and interactive elements, making sure the product is both attractive and easy to use.
+
+QA/Testers
+Responsibilities: Write test cases, perform manual and automated testing, report bugs.
+Contribution: Ensure the product is stable and defect-free, safeguarding quality and user satisfaction.
+
+DevOps Engineers
+Responsibilities: Manage deployment processes, CI/CD pipelines, and server infrastructure.
+Contribution: Enable smooth, reliable delivery and maintenance of the product in production environments.
+
+Product Owner
+Responsibilities: Define requirements, prioritize features, and represent stakeholders’ interests.
+Contribution: Guide the product direction to maximize value and ensure the team builds the right features.
+
+Scrum Master
+Responsibilities: Facilitate Agile processes, remove blockers, and organize team meetings.
+Contribution: Keep the team productive and focused, ensuring Agile principles drive continuous improvement.
