@@ -37,7 +37,6 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Apply component-based architecture and backend API development
 - Learn full-stack deployment processes
 
-## 📂 Project Structure (Planned)
 
 ## UI/UX Design Planning
 **Color Styles**
